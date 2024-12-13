@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8120B76B2D0CCDDF006FFB1A /* OffsetRotationExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8120B76A2D0CCDDF006FFB1A /* OffsetRotationExampleApp.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		8120B7672D0CCDDF006FFB1A /* OffsetRotationExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OffsetRotationExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8120B76A2D0CCDDF006FFB1A /* OffsetRotationExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetRotationExampleApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		8120B75E2D0CCDDF006FFB1A = {
 			isa = PBXGroup;
 			children = (
+				8120B76A2D0CCDDF006FFB1A /* OffsetRotationExampleApp.swift */,
 				8120B7692D0CCDDF006FFB1A /* OffsetRotationExample */,
 				8120B7682D0CCDDF006FFB1A /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8120B76B2D0CCDDF006FFB1A /* OffsetRotationExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
